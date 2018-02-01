@@ -2,4 +2,17 @@
     <string name="app_name">Calorie Buddie</string>
     <string name="open_drawer">Open</string>
     <string name="close_drawer">Close</string>
+    <string name="AgeOfUser">Age</string>
+    <string name="ageyears">years</string>
+    <string name="HeightOfUser">Height</string>
+    <string name="heightunit">cm</string>
+    <string name="weightofuser">Weight</string>
+    <string name="weightunit">kg</string>
+    <string name="genderofuser">Gender</string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+    <string name="activity_level">Activity Level</string>
+    <string name="diseaserecord">Have you been diagnosed with any of these diseases?</string>
+    <string name="diabetes_type_i">Diabetes Type I</string>
+    <string name="diabetes_type_ii">Diabetes Type II</string>
 </resources>
